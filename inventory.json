@@ -1,0 +1,32 @@
+{
+    "101": {
+        "name": "Rice 1kg",
+        "price": 60,
+        "qty": 35
+    },
+    "102": {
+        "name": "Sugar 1kg",
+        "price": 45,
+        "qty": 40
+    },
+    "103": {
+        "name": "Milk 1L",
+        "price": 30,
+        "qty": 20
+    },
+    "104": {
+        "name": "Bread",
+        "price": 25,
+        "qty": 10
+    },
+    "105": {
+        "name": "Eggs (12)",
+        "price": 84,
+        "qty": 25
+    },
+    "106": {
+        "name": "butter",
+        "price": 50.0,
+        "qty": 8
+    }
+}
